@@ -1,7 +1,8 @@
 # kubeadm dependance image
 google-containers mirror
 
-# 1.6.2 image list
+# image list
+## 1.6.2
 * kube-apiserver-amd64:v1.6.2
 * kube-controller-manager-amd64:v1.6.2
 * kube-scheduler-amd64:v1.6.2
