@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.1
+FROM gcr.io/google_containers/kube-dns-amd64:1.7
 MAINTAINER Tacy Lee <tacy.lee@gmail.com>
